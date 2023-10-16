@@ -1,0 +1,14 @@
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\net7.0\CSharpFeatures.exe
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\net7.0\CSharpFeatures.deps.json
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\net7.0\CSharpFeatures.runtimeconfig.json
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\net7.0\CSharpFeatures.dll
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\bin\Debug\net7.0\CSharpFeatures.pdb
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.AssemblyInfoInputs.cache
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.AssemblyInfo.cs
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.dll
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\refint\CSharpFeatures.dll
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.pdb
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\CSharpFeatures.genruntimeconfig.cache
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharpFeatures\obj\Debug\net7.0\ref\CSharpFeatures.dll

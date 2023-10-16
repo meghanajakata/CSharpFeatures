@@ -1,0 +1,15 @@
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.AssemblyInfoInputs.cache
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.AssemblyInfo.cs
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.csproj.CoreCompileInputs.cache
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\bin\Debug\net5.0\CSharp-9.exe
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\bin\Debug\net5.0\CSharp-9.deps.json
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\bin\Debug\net5.0\CSharp-9.runtimeconfig.json
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\bin\Debug\net5.0\CSharp-9.runtimeconfig.dev.json
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\bin\Debug\net5.0\CSharp-9.dll
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\bin\Debug\net5.0\CSharp-9.pdb
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.dll
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\refint\CSharp-9.dll
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.pdb
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\CSharp-9.genruntimeconfig.cache
+C:\Users\Meghana Jakata\source\repos\CSharpFeatures\CSharp-9\obj\Debug\net5.0\ref\CSharp-9.dll

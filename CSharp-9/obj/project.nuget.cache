@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "wzQhcw6v7x1c28wAzklpXcjkrgRbpYp2Sq0/qO/q5xiMQ1pkorY0oQN7z8nXzJOWs3DpOII12Z24wuLo0HX6Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Meghana Jakata\\source\\repos\\CSharpFeatures\\CSharp-9\\CSharp-9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Meghana Jakata\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Meghana Jakata\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Meghana Jakata\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Meghana Jakata\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
